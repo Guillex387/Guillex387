@@ -10,7 +10,7 @@ in my [dotfiles](https://github.com/Guillex387/dotfiles) repo.
 ## Current project
 
 I'm working on [cli-chat](https://github.com/Guillex387/cli-chat) a terminal based chat
-with multiple functionality with his own data transfer protocol.
+with multiple functionality which has its own data transfer protocol.
 
 ## Skills
 
