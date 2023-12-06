@@ -7,11 +7,6 @@ I use [Arch linux](https://archlinux.org/) as my main operating system, to codin
 more technologies and [Neovim](https://neovim.io/) as my text editor. You can view all my configs
 in my [dotfiles](https://github.com/Guillex387/dotfiles) repo.
 
-## Current project
-
-I'm working on [cli-chat](https://github.com/Guillex387/cli-chat), a terminal based chat
-with multiple functionality which has its own data transfer protocol.
-
 ## Skills
 
 <p>
