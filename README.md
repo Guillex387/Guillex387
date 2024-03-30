@@ -33,9 +33,3 @@ in my [dotfiles](https://github.com/Guillex387/dotfiles) repo.
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
-
-## Stats
-
-![Profile stat](https://github-readme-stats.vercel.app/api?username=guillex387&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillex387&exclude_repo=dotfiles&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true)
